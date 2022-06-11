@@ -4,7 +4,7 @@ import {SiGmail} from 'react-icons/si';
 export const socialLinks = [
   {
     name: 'linkdin',
-    url: 'www.linkedin.com/in/kinencardoza',
+    url: 'https://www.linkedin.com/in/kinencardoza/',
     icon: <FaLinkedin />,
   },
   {
